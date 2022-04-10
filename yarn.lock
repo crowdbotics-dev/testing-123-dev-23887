@@ -984,14 +984,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/login@file:./modules/login":
+"@modules/app-menu@file:./modules/app-menu/":
   version "1.0.0"
-  dependencies:
-    "@react-navigation/native" "^5.9.2"
-    "@react-navigation/stack" "^5.14.2"
-    react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
