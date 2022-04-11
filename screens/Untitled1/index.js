@@ -22,8 +22,8 @@ const Untitled1 = () => {
       backgroundColor: "#E4E4E4",
       borderRadius: "50%"
     }}></View><Text style={{
-      left: 46,
-      top: 7,
+      left: 49,
+      top: 38,
       position: "absolute",
       width: 100,
       height: 50,
