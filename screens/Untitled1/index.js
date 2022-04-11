@@ -18,7 +18,15 @@ const Untitled1 = () => {
       lineHeight: 14,
       fontSize: 14,
       borderRadius: 0
-    }}>Testing  </Text></View>;
+    }}>Testing  </Text><View style={{
+      left: 39,
+      top: 65,
+      position: "absolute",
+      width: 80,
+      height: 80,
+      backgroundColor: "#E4E4E4",
+      borderRadius: "50%"
+    }}></View></View>;
 };
 
 export default Untitled1;
