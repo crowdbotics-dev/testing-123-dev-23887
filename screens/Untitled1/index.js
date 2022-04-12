@@ -1,3 +1,4 @@
+import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
@@ -8,16 +9,19 @@ const Untitled1 = () => {
     position: 'relative',
     height: '100%'
   }}>
-      <View style={{
+      <Text style={{
       left: 29,
-      top: 114,
+      top: 87,
       position: "absolute",
-      height: 87,
-      width: 140,
-      backgroundColor: "#E4E4E4",
+      width: 100,
+      height: 50,
+      lineHeight: 41,
+      fontSize: 15,
       borderRadius: 0,
-      color: "#777777"
-    }}></View></View>;
+      transform: "rotate(90deg)",
+      letterSpacing: 21,
+      textAlign: "center"
+    }}>Lorem ipsum… </Text></View>;
 };
 
 export default Untitled1;
