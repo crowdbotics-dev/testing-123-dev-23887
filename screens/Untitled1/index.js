@@ -42,7 +42,7 @@ const Untitled1 = () => {
       color: "#777777",
       opacity: 0.83
     }}></View><Text style={{
-      left: 1,
+      left: 2,
       top: 161,
       position: "absolute",
       width: 100,
@@ -55,7 +55,7 @@ const Untitled1 = () => {
       fontFamily: "Roboto",
       opacity: 0.52
     }}>Username.....</Text><Text style={{
-      left: 0,
+      left: 2,
       top: 193,
       position: "absolute",
       width: 100,
