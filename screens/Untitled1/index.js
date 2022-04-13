@@ -68,7 +68,7 @@ const Untitled1 = () => {
       fontFamily: "Roboto",
       opacity: 0.57
     }}>Passwords.....</Text><ImageBackground style={{
-      left: 1,
+      left: 0,
       top: 0,
       position: "absolute",
       width: 194,
