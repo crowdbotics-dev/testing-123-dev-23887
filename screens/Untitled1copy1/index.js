@@ -3,7 +3,7 @@ import { ImageBackground } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
-const Untitled1 = () => {
+const Untitled1Copy1 = () => {
   return <View style={{
     left: 84,
     top: 155,
@@ -145,4 +145,4 @@ const Untitled1 = () => {
     }}>Login</Text></View>;
 };
 
-export default Untitled1;
+export default Untitled1Copy1;
