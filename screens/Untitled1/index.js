@@ -26,21 +26,25 @@ const Untitled1 = () => {
       top: 160,
       position: "absolute",
       height: 21,
-      width: 140,
+      width: 186,
       backgroundColor: "#323c3c",
       borderRadius: 0,
       color: "#777777",
-      opacity: 0.83
+      opacity: 0.83,
+      borderColor: "#e6e6e6",
+      borderWidth: 3
     }}></View><View style={{
       left: 0,
       top: 191,
       position: "absolute",
       height: 21,
-      width: 140,
+      width: 186,
       backgroundColor: "#323C3C",
       borderRadius: 0,
       color: "#777777",
-      opacity: 0.83
+      opacity: 0.83,
+      borderColor: "#e9e2e2",
+      borderWidth: 3
     }}></View><Text style={{
       left: 2,
       top: 161,
