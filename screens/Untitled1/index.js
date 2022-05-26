@@ -1,3 +1,4 @@
+import { Pressable } from "react-native";
 import { Text } from "react-native";
 import { ImageBackground } from "react-native";
 import React from "react";
@@ -45,20 +46,26 @@ const Untitled1 = () => {
       opacity: 0.83,
       borderColor: "#e9e2e2",
       borderWidth: 3
-    }}></View><Text style={{
-      left: 2,
-      top: 161,
-      position: "absolute",
-      width: 100,
-      height: 50,
-      lineHeight: 14,
-      fontSize: 14,
-      borderRadius: 0,
-      color: "#ec0e0e",
-      fontWeight: 900,
-      fontFamily: "Roboto",
-      opacity: 0.52
-    }}>Username.....</Text><Text style={{
+    }}></View><Pressable onPress={{}} style={{
+      position: "initial",
+      width: "195px",
+      height: "350px",
+      marginLeft: "-10px",
+      marginTop: "-10px"
+    }}><Text style={{
+        left: 2,
+        top: 161,
+        position: "absolute",
+        width: 100,
+        height: 50,
+        lineHeight: 14,
+        fontSize: 14,
+        borderRadius: 0,
+        color: "#ec0e0e",
+        fontWeight: 900,
+        fontFamily: "Roboto",
+        opacity: 0.52
+      }}>Username.....</Text></Pressable><Text style={{
       left: 2,
       top: 193,
       position: "absolute",
